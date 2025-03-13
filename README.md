@@ -63,8 +63,8 @@ This project aims to accurately classify **X-ray images** as either **fractured*
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/sbw200/Fracture-Detection-with-Image-Transformations-and-Deep-Learning
+cd Fracture-Detection-with-Image-Transformations-and-Deep-Learning
 ```
 
 ### **2️⃣ Install Dependencies**
